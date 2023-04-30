@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2023-summer-teaching-1
 venue: "Hong Kong Academy for Gifted Education"
-date: 2023
+date: 2023-08-14
 location: "Hong Kong"
 ---
 
