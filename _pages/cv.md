@@ -36,8 +36,10 @@ Skills
   * Video recording
 * Programming
   * Python
-  * C++
+  * C++, C#
+  * BASIC
   * LaTeX
+  * HTML, CSS, JavaScript, PHP, SQL
 
 Publications
 ======
