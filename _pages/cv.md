@@ -37,12 +37,31 @@ I joined the following competitions:
   * 中學生統計習作比賽
   * Creative Infographic Design Competition on Applications of Mathematics for Primary and Secondary Schools
   * IMMC 秋季盃
+  * Mathematics Book Report Competition for Secondary Schools
+  * 香港青少年科技創新大賽
 * Olympiad Mathematics
   * HKMO Individual and Group Event
   * HMMT Online Tournament
   * IMO Prelim
   * Hong Kong Winter Mathematics Olympiad
   * APMO
+* Science
+  * HKPhO
+I joined the following courses:
+* Mathematics
+  * Introduction to Cryptography (by Wolfram U)
+  * Introduction to Linear Algebra (by Wolfram U)
+  * 离散数学概论 Discrete Mathematics Generality (by Peking University)
+  * Game Theory (By Stanford University)
+  * Differential Equations for Engineers (By HKUST)
+* Science
+  * Sciences Web-based Learning Course for Gifted/More Able Students – Palaeontology
+  * Understanding Modern Physics II: Quantum Mechanics and Atoms (By HKUST)
+  * Implant Dentistry (By HKU)
+
+Work Experience
+======
+* Translator (Volunteer): World Cube Association, Mental Calculation World Cup, IChO and IEO
 
 Skills
 ======
@@ -56,6 +75,10 @@ Skills
   * BASIC
   * LaTeX
   * HTML, CSS, JavaScript, PHP, SQL
+
+Experience
+======
+I completed questions of APIO, NOI, NOIP, IOI, Google Code Jam in HKOI Judge System.
 
 Publications
 ======
