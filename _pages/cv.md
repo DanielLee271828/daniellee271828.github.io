@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* CCC Heep Woh College
+  * Elective subjects: Physics, Mathematics Extended Part Module 2 (Algebra and Calculus), Information and Communication Technology
+* HKUST Dual Program (Level 1)
+  * Mathematics
+* The Hong Kong Academy for Gifted Education
+  * Hong Kong Gifted Apprentice Programme
+  * IMO Training
+* HKU Academy for the Talented
+  * 2022 Summer, Engineering Academy for the Talented
+  * 2023 Spring, Taster Programme
+  * Official Discord server moderator
 
-Work experience
+Interesting Facts
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* I self-learnt Hong Kong Advanced Level Applied Mathematics and Pure Mathematics for fun. I also self-learnt HKDSE Design and Technology curriculum (but will not take the examination).
+* I am current self-learning some international examination curriculum (IGCSE, IAL, AP, etc).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Multimedia
+  * Digital drawing
+  * Video editing
+  * Video recording
+* Programming
+  * Python
+  * C++
+  * LaTeX
 
 Publications
 ======
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Hong Kong Joint School Mathematics Society 2022-2023 Executive Committee
