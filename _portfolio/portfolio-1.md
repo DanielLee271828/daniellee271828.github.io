@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Super Animal Royale Super Fanart Contest "
+excerpt: ""A Moment of Peace"<br/><img src='https://artcontest.animalroyale.com/contest/thumbnails/66C065A848B052D5674F9E2AEDF73060.jpg'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
