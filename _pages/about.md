@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Daniel / Pika's Website"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Testing
 ======
 Test to see if I can add LaTeX in the website. $$|x|=x$$ for $x>0$
