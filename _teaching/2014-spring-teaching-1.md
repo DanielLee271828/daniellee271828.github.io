@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "CCCHWC 2023 STEM遊蹤全能比賽 Training"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Competition Training"
+permalink: /teaching/2023-spring-teaching-1
+venue: "CCC Heep Woh College"
+date: 2023-04-23
+location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I made the note for CCCHWC students who join 2023 STEM遊蹤全能比賽.
