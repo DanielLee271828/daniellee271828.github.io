@@ -7,6 +7,7 @@ author_profile: true
 I submitted an article in
 * Ma(𝛕ℏ)gazine, a Math magazine in CCCHWC (Topic: Development of Math in China)
 * South China Morning Post Top 10
+
 I also submitted an article in
 * Acta Mathematica Sinica, English Series
 * Chinese Physics Letters
