@@ -20,8 +20,8 @@ Games I played (The list will be updated)
 ======
 * Games with endings
   * Pokémon Mystery Dungeon: Explorers of Sky
-  * Pokémon Mystery Dungeon: Gates to Infinity (Post Game uncompleted)
-  * Pokémon Super Mystery Dungeon (Post Game completed)
+  * Pokémon Mystery Dungeon: Gates to Infinity (Post game uncompleted)
+  * Pokémon Super Mystery Dungeon (Post game completed)
   * Pokémon Mystery Dungeon: Rescue Team DX
 * Games without endings
   * Pokémon GO (Participant in 2023 Pokémon GO WCS Asia Qualifier)
