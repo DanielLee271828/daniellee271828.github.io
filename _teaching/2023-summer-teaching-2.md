@@ -4,8 +4,8 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2023-summer-teaching-1
 venue: "HKAGE"
-date: 2023 Summer (Expected)
+date: 2023
 location: "Hong Kong"
 ---
 
-Topics covered: Logic, Set Theory, Fuzzy Set, Abstract Algebra, Applied Mathematics
+The course is expected to be started in 2023 summer. Topics covered: Logic, Set Theory, Fuzzy Set, Abstract Algebra, Applied Mathematics.
