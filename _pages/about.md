@@ -16,12 +16,13 @@ $$\begin{aligned} \frac{d\mathbf{x}}{dt} = \mu \mathbf{v} + \sqrt{2D}\boldsymbol
 (b) Using the Fokker-Planck equation, derive an analytical expression for the spatiotemporal distribution of the bacteria and their chemical signal over time, assuming that the initial distribution is a Gaussian function centered at the origin. Discuss the conditions under which the distribution will form stable, self-organized patterns such as spirals, waves, or clusters.
 (c) Implement a numerical simulation of the system using the stochastic Euler-Maruyama method, and compare the simulation results with the analytical predictions from part (b). Discuss any discrepancies between the two, and suggest possible reasons for the differences.
 
-Games I played
+Games I played (The list will be updated)
 ======
 * Games with endings
   * Pokémon Mystery Dungeon: Explorers of Sky
-  * Pokémon Mystery Dungeon: Gates to Infinity (Post Game Uncompleted)
+  * Pokémon Mystery Dungeon: Gates to Infinity (Post Game uncompleted)
   * Pokémon Super Mystery Dungeon (Post Game completed)
+  * Pokémon Mystery Dungeon: Rescue Team DX
 * Games without endings
   * Pokémon GO (Participant in 2023 Pokémon GO WCS Asia Qualifier)
   * Super Animal Royale
