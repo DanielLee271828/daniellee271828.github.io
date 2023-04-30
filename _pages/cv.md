@@ -28,6 +28,22 @@ Interesting Facts
 * I self-learnt Hong Kong Advanced Level Applied Mathematics and Pure Mathematics for fun. I also self-learnt HKDSE Design and Technology curriculum (but will not take the examination).
 * I am current self-learning some international examination curriculum (IGCSE, IAL, AP, etc).
 
+Achievements
+======
+I joined the following competitions:
+* Mathematics Modelling
+  * 第五屆（2023）上海地區數學建模聯校活動
+  * 數學建模小論文評選
+  * 中學生統計習作比賽
+  * Creative Infographic Design Competition on Applications of Mathematics for Primary and Secondary Schools
+  * IMMC 秋季盃
+* Olympiad Mathematics
+  * HKMO Individual and Group Event
+  * HMMT Online Tournament
+  * IMO Prelim
+  * Hong Kong Winter Mathematics Olympiad
+  * APMO
+
 Skills
 ======
 * Multimedia
