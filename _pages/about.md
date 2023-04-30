@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Testing
+Industrial and Applied Mathematics Olympiad Sample Question
 ======
-Test to see if I can add LaTeX in the website. $$|x|=x$$ for $x>0$
+Consider a population of bacteria that grows in a three-dimensional space, with motility and chemotaxis governed by the following stochastic differential equations:
+$$\begin{aligned} \frac{d\mathbf{x}}{dt} &= \mu \mathbf{v} + \sqrt{2D}\boldsymbol{\eta}_1,\ \frac{d\mathbf{v}}{dt} &= \sqrt{2\gamma k_B T / m}\boldsymbol{\eta}_2,\ \frac{dC}{dt} &= D_c \nabla^2 C + \rho(\mathbf{x}) - \lambda C + \sqrt{2D_c}\eta_3. \end{aligned}$$where $\mathbf{x}$ is the position of a bacterium, $\mathbf{v}$ is its velocity, $C$ is the concentration of the chemical signal, $\mu$ is the swimming speed, $D$ is the diffusion coefficient, $D_c$ is the diffusion coefficient of the chemical signal, $\rho(\mathbf{x})$ is the rate at which the bacterium produces the signal, $\lambda$ is the rate at which the signal decays, and $\boldsymbol{\eta}_1$, $\boldsymbol{\eta}_2$, and $\boldsymbol{\eta}_3$ are independent Gaussian white noise processes with zero mean and unit variance.
+(a) Derive the Fokker-Planck equation for the joint probability density function of the position and velocity of a single bacterium, and the concentration of the chemical signal. Explain the physical meaning of each term in the equation.
+(b) Using the Fokker-Planck equation, derive an analytical expression for the spatiotemporal distribution of the bacteria and their chemical signal over time, assuming that the initial distribution is a Gaussian function centered at the origin. Discuss the conditions under which the distribution will form stable, self-organized patterns such as spirals, waves, or clusters.
+(c) Implement a numerical simulation of the system using the stochastic Euler-Maruyama method, and compare the simulation results with the analytical predictions from part (b). Discuss any discrepancies between the two, and suggest possible reasons for the differences.
 
 Games I played
 ======
@@ -22,48 +26,13 @@ Games I played
   * Pokémon GO (Participant in 2023 Pokémon GO WCS Asia Qualifier)
   * Super Animal Royale
 
-MTR (Work in Progress)
+
 ======
-* East Rail Line
-  * Admirality ✅
-  * Exhibition Centre ✅
-  * Hung Hom ✅
-  * Mong Kok East ✅
-  * Kowloon Tong ✅
-  * Tai Wai ✅
-  * Sha Tin ✅
-  * Fo Tan ✅
-  * Racecourse
-  * University ✅
-  * Tai Po Market
-  * Tai Wo
-  * Fanling
-  * Sheung Shui
-  * Lo Wu
-  * Lok Ma Chau
-* Kwun Tong line
-  * Whampoa
-  * Ho Man Tin
-  * Yau Ma Tei
-  * Mong Kok
-  * Price Edward
-  * Shek Kip Mei
-  * Kowloon Tong
-  * Lok Fu
-  * Wong Tai Sin
-  * Diamond Hill
-  * Choi Hung
-  * Kowloon Bay
-  * Ngau Tau Kok
-  * Kwun Tong
-  * Lam Tin
-  * Yau Tong
-  * Tiu Keng Leng
-* Tsuen Wan line
-  * Tsuen Wan
-  * Tai Wo Hau
-  * Kwai Hing
-  * Kwai Fong
-  * Lai King
-  * Mei Foo
-  * Lai Chi Kok 
+![MTR Map](https://user-images.githubusercontent.com/132133451/235341657-9ffe0d08-7892-4ef5-b969-dc4032e02674.png)
+![LR_routemap_s](https://user-images.githubusercontent.com/132133451/235341769-18099d86-69d4-4451-af47-773f746fc4ac.jpg)
+![Hong_Kong_Tramways_network_map_zh svg](https://user-images.githubusercontent.com/132133451/235341811-ac11ae10-088f-4408-a5da-5b85209bece8.png)
+* Peak Tram ✅
+* Po Fook Hill Elevator
+* Discovery Bay Elevator
+* Ocean Express ✅
+* Sha Tau Kok Railway - Former Hung Leng Station
