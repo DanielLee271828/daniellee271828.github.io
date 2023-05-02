@@ -1,5 +1,5 @@
 ---
-permalink:
+permalink: /
 title: "Daniel / Pika's Website"
 excerpt: "About me"
 author_profile: true
