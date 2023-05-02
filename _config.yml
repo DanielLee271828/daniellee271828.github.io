@@ -11,7 +11,7 @@ title                    : "Pika's Library"
 title_separator          : "-"
 name                     : &name "Daniel / Pika"
 description              : &description "personal description"
-url                      : https://daniellee271828.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://daniellee271828.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daniellee271828/daniellee271828.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -177,16 +177,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:path/
 
 
 # Defaults
