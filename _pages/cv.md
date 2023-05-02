@@ -59,6 +59,9 @@ I joined the following courses:
   * Sciences Web-based Learning Course for Gifted/More Able Students – Palaeontology
   * Understanding Modern Physics II: Quantum Mechanics and Atoms (By HKUST)
   * Implant Dentistry (By HKU)
+* Linguistics
+  * Applied Learning (Practical Translation (CHI-ENG)) Selection Test
+  * HKOI
 
 Work Experience
 ======
