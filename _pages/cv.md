@@ -58,10 +58,10 @@ I joined the following courses:
 * Science
   * Sciences Web-based Learning Course for Gifted/More Able Students – Palaeontology
   * Understanding Modern Physics II: Quantum Mechanics and Atoms (By HKUST)
-  * Implant Dentistry (By HKU)
+  * Implant Dentistry (By HKU) (I also do Kahoot quiz about dental radiology and orthodontics in HKU taster :))
 * Linguistics
   * Applied Learning (Practical Translation (CHI-ENG)) Selection Test
-  * HKOI
+  * HKLO
 
 Work Experience
 ======
@@ -71,7 +71,7 @@ Skills
 ======
 * Multimedia
   * Digital drawing
-  * Video editing
+  * Video editingdo
   * Video recording
 * Programming
   * Python
