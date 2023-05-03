@@ -60,7 +60,7 @@ I joined the following courses:
   * Understanding Modern Physics II: Quantum Mechanics and Atoms (By HKUST)
   * Implant Dentistry (By HKU) (I also do Kahoot quiz about dental radiology and orthodontics in HKU taster :))
 * Linguistics
-  * Applied Learning (Practical Translation (CHI-ENG)) Selection Test
+  * Applied Learning (Practical Translation (CHI-ENG)) (Expected)
   * HKLO
 
 Work Experience
