@@ -71,7 +71,7 @@ Skills
 ======
 * Multimedia
   * Digital drawing
-  * Video editingdo
+  * Video editing
   * Video recording
 * Programming
   * Python
