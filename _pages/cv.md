@@ -48,6 +48,7 @@ I joined the following competitions:
   * APMO
 * Science
   * HKPhO
+
 I joined the following courses:
 * Mathematics
   * Introduction to Cryptography (by Wolfram U)
