@@ -44,10 +44,11 @@ I joined the following competitions:
   * HKMO Individual and Group Event
   * HMMT Online Tournament
   * IMO Prelim
-  * Hong Kong Winter Mathematics Olympiad
-  * APMO
+  * 2023 Hong Kong Winter Mathematics Olympiad
+  * XXV Asian Pacific Mathematics Olympiad
+  * 2023 Alibaba Global Mathematics Competition
 * Science
-  * HKPhO
+  * Hong Kong Physics Olympiad
 
 I joined the following courses:
 * Mathematics
