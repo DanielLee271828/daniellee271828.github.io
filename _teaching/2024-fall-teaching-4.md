@@ -2,7 +2,7 @@
 title: "CCCHWC Mathematics Competition Team Training"
 collection: teaching
 type: "Competition Training"
-permalink: /teaching/2024-fall-teaching-1
+permalink: /teaching/2024-fall-teaching-4
 venue: "CCC Heep Woh College"
 date: 2024-09-01
 location: "Hong Kong"
