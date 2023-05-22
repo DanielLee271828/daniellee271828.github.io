@@ -49,6 +49,10 @@ I joined the following competitions:
   * 2023 Alibaba Global Mathematics Competition
 * Science
   * Hong Kong Physics Olympiad
+  * Sci-Pi Design Challenge
+* Language & Humanities
+  * Hong Kong Linguistics Olympiad
+  * International Economics Olympiad (Winter Challenge)
 
 I joined the following courses:
 * Mathematics
@@ -63,7 +67,6 @@ I joined the following courses:
   * Implant Dentistry (By HKU) (I also do Kahoot quiz about dental radiology and orthodontics in HKU taster :))
 * Linguistics
   * Applied Learning (Practical Translation (CHI-ENG)) (Expected)
-  * HKLO
 
 Work Experience
 ======
@@ -76,7 +79,7 @@ Skills
   * Video editing
   * Video recording
 * Programming
-  * Python
+  * Python (for scientific research)
   * C++, C#
   * BASIC
   * LaTeX
