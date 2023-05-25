@@ -18,6 +18,7 @@ Education
 * The Hong Kong Academy for Gifted Education
   * Hong Kong Gifted Apprentice Programme
   * IMO Training
+  * Physics Enrichment Programme
 * HKU Academy for the Talented
   * 2022 Summer, Engineering Academy for the Talented
   * 2023 Spring, Taster Programme
@@ -25,7 +26,7 @@ Education
 
 Interesting Facts
 ======
-* I self-learnt Hong Kong Advanced Level Applied Mathematics and Pure Mathematics for fun. I also self-learnt HKDSE Design and Technology curriculum (but will not take the examination).
+* I self-learnt Hong Kong Advanced Level Engineering Science, Applied Mathematics and Pure Mathematics for fun. I also self-learnt HKDSE Design and Technology curriculum (but will not take the examination).
 * I am current self-learning some international examination curriculum (IGCSE, IAL, AP, etc).
 * I also watch some scientific conference.
 
