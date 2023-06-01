@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Industrial and Applied Mathematics Olympiad Sample Question
+Industrial and Applied Mathematics Olympiad Sample Question (Set by me)
 ======
 Consider a population of bacteria that grows in a three-dimensional space, with motility and chemotaxis governed by the following stochastic differential equations:
 $$\begin{aligned} \frac{d\mathbf{x}}{dt} = \mu \mathbf{v} + \sqrt{2D}\boldsymbol{\eta}_1,\ \frac{d\mathbf{v}}{dt} = \sqrt{2\gamma k_B T / m}\boldsymbol{\eta}_2,\ \frac{dC}{dt} = D_c \nabla^2 C + \rho(\mathbf{x}) - \lambda C + \sqrt{2D_c}\eta_3. \end{aligned}$$ where $\mathbf{x}$ is the position of a bacterium, $\mathbf{v}$ is its velocity, $C$ is the concentration of the chemical signal, $\mu$ is the swimming speed, $D$ is the diffusion coefficient, $D_c$ is the diffusion coefficient of the chemical signal, $\rho(\mathbf{x})$ is the rate at which the bacterium produces the signal, $\lambda$ is the rate at which the signal decays, and $\boldsymbol{\eta}_1$, $\boldsymbol{\eta}_2$, and $\boldsymbol{\eta}_3$ are independent Gaussian white noise processes with zero mean and unit variance.
