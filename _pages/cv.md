@@ -13,8 +13,9 @@ Education
 ======
 * CCC Heep Woh College
   * Elective subjects: Physics, Mathematics Extended Part Module 2 (Algebra and Calculus), Information and Communication Technology
-* HKUST Dual Program (Level 1)
-  * Mathematics
+* HKUST Dual Program
+  * Mathematics (Level 1: Grade B)
+  * Mathematics (Level 2)
 * The Hong Kong Academy for Gifted Education
   * Hong Kong Gifted Apprentice Programme
   * IMO Training
@@ -22,7 +23,7 @@ Education
 * HKU Academy for the Talented
   * 2022 Summer, Engineering Academy for the Talented
   * 2023 Spring, Taster Programme
-  * Official Discord server moderator
+  * Official Discord Server Moderator
 
 Interesting Facts
 ======
@@ -67,7 +68,7 @@ I joined the following courses:
   * Understanding Modern Physics II: Quantum Mechanics and Atoms (By HKUST)
   * Implant Dentistry (By HKU) (I also do Kahoot quiz about dental radiology and orthodontics in HKU taster :))
 * Linguistics
-  * Applied Learning (Practical Translation (CHI-ENG)) (Expected)
+  * Applied Learning (Practical Translation (CHI-ENG))
 
 Work Experience
 ======
