@@ -35,10 +35,21 @@ Games I played (The list will be updated)
 * Games without endings
   * Pokémon GO (Participant in 2023 Pokémon GO WCS Asia Qualifier)
   * Super Animal Royale
+ 
+Past Paper I Did
+======
+* 1969 HKCEE
+  * Mathematics (Syllabus A and B)
+  * Additional Mathematics (Paper 1,2,3)
+* 2005 HKALE
+  * Engineering Science
+* 2007 HKALE
+  * Pure Mathematics
+  * Applied Mathematics
 
 Station of MTR and rail transport in Hong Kong I went before
 ======
-![MTR Map](https://github.com/DanielLee271828/daniellee271828.github.io/assets/132133451/24b4a97e-79ec-449e-b07c-b9d69ccb8b8a) (Orange tick means I went to that station a long time ago)
+![MTR Map](![MTR Map 2](https://github.com/DanielLee271828/daniellee271828.github.io/assets/132133451/75955332-a9d6-479f-ac9c-cb467f47cad8)) (Orange tick means I went to that station a long time ago)
 ![LR_routemap_s](https://user-images.githubusercontent.com/132133451/235341769-18099d86-69d4-4451-af47-773f746fc4ac.jpg)
 ![Hong_Kong_Tramways_network_map_zh svg](https://user-images.githubusercontent.com/132133451/235341811-ac11ae10-088f-4408-a5da-5b85209bece8.png)
 * Peak Tram ✅
