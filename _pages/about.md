@@ -51,12 +51,11 @@ Past Paper I Did
  
 Station of MTR and rail transport in Hong Kong I went before
 ======
-![MTR Map 3](https://github.com/DanielLee271828/daniellee271828.github.io/assets/132133451/16f00f33-bca9-4fc5-a924-4e0081264c42)
- (Orange tick means I went to that station a long time ago)
+* MTR (I have gone all 99 station) ✅
 ![LR_routemap_s](https://user-images.githubusercontent.com/132133451/235341769-18099d86-69d4-4451-af47-773f746fc4ac.jpg)
 ![Hong_Kong_Tramways_network_map_zh svg](https://user-images.githubusercontent.com/132133451/235341811-ac11ae10-088f-4408-a5da-5b85209bece8.png)
 * Peak Tram ✅
 * Po Fook Hill Elevator
 * Discovery Bay Elevator
 * Ocean Express ✅
-* Sha Tau Kok Railway - Former Hung Leng Station
+* Sha Tau Kok Railway - Former Hung Leng Station ✅
