@@ -8,4 +8,4 @@ date: 2023-08-14
 location: "Hong Kong"
 ---
 
-The course is expected to be started in 2023 summer. Topics covered: Logic, Set Theory, Fuzzy Set, Abstract Algebra, Applied Mathematics.
+The course was in 2023 summer. Topics covered: Logic, Set Theory, Fuzzy Set, Abstract Algebra, Applied Mathematics.
