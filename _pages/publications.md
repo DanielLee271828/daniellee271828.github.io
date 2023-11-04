@@ -15,6 +15,10 @@ I also submitted an article in
 
 but do not get accepted.
 
+I also write articles about Fluid Mechanics, Geophysics, Rotational Mechanics and Combinatorial Chemistry in school Science society newsletter - Sound of Science before.
+
+An article about Fintech and Blockchain will be released.
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
