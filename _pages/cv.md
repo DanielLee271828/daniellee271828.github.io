@@ -32,8 +32,8 @@ Education
 Interesting Facts
 ======
 * I self-learnt Hong Kong Advanced Level Engineering Science, Applied Mathematics and Pure Mathematics for fun. I also self-learnt HKDSE Design and Technology curriculum (but will not take the examination).
-* I am current self-learning some international examination curriculum (IGCSE, IAL, AP, etc).
 * I also watch some scientific conference.
+* I may assist school teachers to train the students for different Math competition.
 
 Achievements
 ======
