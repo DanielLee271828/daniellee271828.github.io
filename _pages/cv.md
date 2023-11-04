@@ -83,6 +83,7 @@ Work Experience
 * HKJSMS
   * 35th HKJSMS Publication Secretary
   * 36th HKJSMS President
+* Organizer of CCCHWC Astronomy and Chemistry Olympiad
   
 Skills
 ======
