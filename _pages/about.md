@@ -51,7 +51,7 @@ Past Paper I Did
  
 Station of MTR and rail transport in Hong Kong I went before
 ======
-* MTR (I have gone all 99 station) ✅
+* MTR (I have gone all 99 station) ✅ (Look forward to new lines in future like East Kowloon Line, Northern Link, Tuen Ma South Extension, Tung Chung Line Extension, etc)
 ![LR_routemap_s](https://user-images.githubusercontent.com/132133451/235341769-18099d86-69d4-4451-af47-773f746fc4ac.jpg)
 ![Hong_Kong_Tramways_network_map_zh svg](https://user-images.githubusercontent.com/132133451/235341811-ac11ae10-088f-4408-a5da-5b85209bece8.png)
 * Peak Tram ✅
