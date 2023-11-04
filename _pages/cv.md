@@ -12,14 +12,18 @@ redirect_from:
 Education
 ======
 * CCC Heep Woh College
-  * Elective subjects: Physics, Mathematics Extended Part Module 2 (Algebra and Calculus), Information and Communication Technology
+  * Elective subjects
+    * Physics (Study all elective modules)
+    * Mathematics Extended Part Module 2 (Algebra and Calculus) (Self-study EP Module 1)
+    * Information and Communication Technology (Study all elective modules)
 * HKUST Dual Program
-  * Mathematics (Level 1: Grade B)
-  * Mathematics (Level 2)
+  * Mathematics (Level 1: Grade B) and Mathematics (Level 2)
 * The Hong Kong Academy for Gifted Education
-  * Hong Kong Gifted Apprentice Programme
+  * 5th Hong Kong Gifted Apprentice Programme
   * IMO Training
+    * I take all problem set and TST seriously. For example, I get 15/28 in one of problem set.
   * Physics Enrichment Programme
+    * IPhO Hong Kong TST (Phase 1, test 1): 43/90 (Ranked 22/59)
 * HKU Academy for the Talented
   * 2022 Summer, Engineering Academy for the Talented
   * 2023 Spring, Taster Programme
@@ -42,8 +46,10 @@ I joined the following competitions:
   * IMMC 秋季盃
   * Mathematics Book Report Competition for Secondary Schools
   * 香港青少年科技創新大賽
+  * S.T. Yau High School Science Award (Asia)
+  * HLMA
 * Olympiad Mathematics
-  * HKMO Individual and Group Event
+  * HKMO Individual and Group Event (Heat and Final)
   * HMMT Online Tournament
   * IMO Prelim
   * 2023 Hong Kong Winter Mathematics Olympiad
@@ -51,10 +57,13 @@ I joined the following competitions:
   * 2023 Alibaba Global Mathematics Competition
 * Science
   * Hong Kong Physics Olympiad
+  * Hong Kong Geography Olympiad
   * Sci-Pi Design Challenge
 * Language & Humanities
   * Hong Kong Linguistics Olympiad
   * International Economics Olympiad (Winter Challenge)
+  * HKU ROLE Project - Rule of Law Essay Competition 2023
+  * PolyU Invitational English Speech Contest
 
 I joined the following courses:
 * Mathematics
@@ -66,14 +75,15 @@ I joined the following courses:
 * Science
   * Sciences Web-based Learning Course for Gifted/More Able Students – Palaeontology
   * Understanding Modern Physics II: Quantum Mechanics and Atoms (By HKUST)
-  * Implant Dentistry (By HKU) (I also do Kahoot quiz about dental radiology and orthodontics in HKU taster :))
-* Linguistics
-  * Applied Learning (Practical Translation (CHI-ENG))
+  * Implant Dentistry (By HKU)
 
 Work Experience
 ======
 * Translator (Volunteer): World Cube Association, Mental Calculation World Cup, IChO and IEO
-
+* HKJSMS
+  * 35th HKJSMS Publication Secretary
+  * 36th HKJSMS President
+  
 Skills
 ======
 * Multimedia
@@ -89,7 +99,7 @@ Skills
 
 Experience
 ======
-I completed questions of APIO, NOI, NOIP, IOI, Google Code Jam in HKOI Judge System.
+I completed questions of APIO, NOI, NOIP, IOI, Google Code Jam in HKOI Judge System. I also join the simulation test on Luogu.
 
 Publications
 ======
