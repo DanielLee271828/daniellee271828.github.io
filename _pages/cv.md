@@ -22,6 +22,11 @@ Education
   * 5th Hong Kong Gifted Apprentice Programme
   * IMO Training
     * I take all problem set and TST seriously. For example, I get 15/28 in one of problem set.
+    * Hong Kong National Olympiad (Hong Kong (China) Mathematical Olympiad)
+      * Selection test for China Mathematics Olympiad in 2022 - 2023
+      * Joined in 2022 - 2023, 2023 - 2024
+    * Hong Kong IMO TST I, II
+      * Joined in 2022 - 2023, 2023 - 2024
   * Physics Enrichment Programme
     * IPhO Hong Kong TST (Phase 1, test 1): 43/90 (Ranked 22/59)
 * HKU Academy for the Talented
@@ -58,6 +63,8 @@ I joined the following competitions:
 * Science
   * Hong Kong Physics Olympiad
   * Hong Kong Geography Olympiad
+  * Hong Kong Chemistry Olympiad
+  * International Project Chemistry Olympiad
   * Sci-Pi Design Challenge
 * Language & Humanities
   * Hong Kong Linguistics Olympiad
