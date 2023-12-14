@@ -93,7 +93,7 @@ Work Experience
   * 35th HKJSMS Publication Secretary
   * 36th HKJSMS President
 * Organizer of CCCHWC Astronomy and Chemistry Olympiad
-* Helpe of 全港小學 數學比賽
+* Helpe of 全港小學數學比賽
 
 Sports
 ======
