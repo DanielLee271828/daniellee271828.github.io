@@ -60,6 +60,7 @@ I joined the following competitions:
   * 2023 Hong Kong Winter Mathematics Olympiad
   * XXV Asian Pacific Mathematics Olympiad
   * 2023 Alibaba Global Mathematics Competition
+  * Olympiad Training for Individual Study (OTIS) Year IX
 * Science
   * Hong Kong Physics Olympiad
   * Hong Kong Geography Olympiad
@@ -91,7 +92,13 @@ Work Experience
   * 35th HKJSMS Publication Secretary
   * 36th HKJSMS President
 * Organizer of CCCHWC Astronomy and Chemistry Olympiad
-  
+
+Sports
+======
+* 田徑隊（黃大仙區分齡田徑比賽）
+  * 跨欄
+  * 短跑
+
 Skills
 ======
 * Multimedia
