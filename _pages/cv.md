@@ -27,6 +27,7 @@ Education
       * Joined in 2022 - 2023, 2023 - 2024
     * Hong Kong IMO TST I, II
       * Joined in 2022 - 2023, 2023 - 2024
+  * HKAGE Represetative from Academy's Got Talents
   * Physics Enrichment Programme
     * IPhO Hong Kong TST (Phase 1, test 1): 43/90 (Ranked 22/59)
 * HKU Academy for the Talented
