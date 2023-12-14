@@ -68,6 +68,7 @@ I joined the following competitions:
   * Hong Kong Chemistry Olympiad
   * International Project Chemistry Olympiad
   * Sci-Pi Design Challenge
+  * PolyU Science Young Talents Competition
 * Language & Humanities
   * Hong Kong Linguistics Olympiad
   * International Economics Olympiad (Winter Challenge)
