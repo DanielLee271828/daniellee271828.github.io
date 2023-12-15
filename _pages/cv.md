@@ -33,6 +33,7 @@ Education
 * HKU Academy for the Talented
   * 2022 Summer, Engineering Academy for the Talented
   * 2023 Spring, Taster Programme
+  * 2023, LASC
   * Official Discord Server Moderator
 
 Interesting Facts
