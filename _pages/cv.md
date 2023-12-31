@@ -29,7 +29,12 @@ Education
       * Joined in 2022 - 2023, 2023 - 2024
   * HKAGE Represetative from Academy's Got Talents
   * Physics Enrichment Programme
-    * IPhO Hong Kong TST (Phase 1, test 1): 43/90 (Ranked 22/59)
+    * APhO (Expected) / IPhO Hong Kong Team Selection Test
+    * Pan Pearl River Delta Physics Olympiad (Expected)
+    * Chinese Physics Olympiad (2024-2025) (Expected)
+    * International Scientific Physics Olympiad
+    * Physics Brawl Online
+    * Physics Cup
 * HKU Academy for the Talented
   * 2022 Summer, Engineering Academy for the Talented
   * 2023 Spring, Taster Programme
@@ -55,7 +60,7 @@ I joined the following competitions:
   * 香港青少年科技創新大賽
   * S.T. Yau High School Science Award (Asia)
   * HLMA
-* Olympiad Mathematics
+* Mathematics Olympiad
   * HKMO Individual and Group Event (Heat and Final)
   * HMMT Online Tournament
   * IMO Prelim
@@ -92,7 +97,7 @@ Work Experience
 ======
 * Translator (Volunteer): World Cube Association, Mental Calculation World Cup, IChO and IEO
 * HKJSMS
-  * 35th HKJSMS Publication Secretary
+  * 35th HKJSMS Publication Secretary (Setter of Inter-school Mathematics Competition)
   * 36th HKJSMS President
 * Organizer of CCCHWC Astronomy and Chemistry Olympiad
 * Helper of 全港小學數學比賽
