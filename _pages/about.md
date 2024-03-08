@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Industrial and Applied Mathematics Olympiad Sample Question (Set by me)
+New Concepts I Learnt
 ======
-Consider a population of bacteria that grows in a three-dimensional space, with motility and chemotaxis governed by the following stochastic differential equations:
-$$\begin{aligned} \frac{d\mathbf{x}}{dt} = \mu \mathbf{v} + \sqrt{2D}\boldsymbol{\eta}_1,\ \frac{d\mathbf{v}}{dt} = \sqrt{2\gamma k_B T / m}\boldsymbol{\eta}_2,\ \frac{dC}{dt} = D_c \nabla^2 C + \rho(\mathbf{x}) - \lambda C + \sqrt{2D_c}\eta_3. \end{aligned}$$ where $\mathbf{x}$ is the position of a bacterium, $\mathbf{v}$ is its velocity, $C$ is the concentration of the chemical signal, $\mu$ is the swimming speed, $D$ is the diffusion coefficient, $D_c$ is the diffusion coefficient of the chemical signal, $\rho(\mathbf{x})$ is the rate at which the bacterium produces the signal, $\lambda$ is the rate at which the signal decays, and $\boldsymbol{\eta}_1$, $\boldsymbol{\eta}_2$, and $\boldsymbol{\eta}_3$ are independent Gaussian white noise processes with zero mean and unit variance.
-
-(a) Derive the Fokker-Planck equation for the joint probability density function of the position and velocity of a single bacterium, and the concentration of the chemical signal. Explain the physical meaning of each term in the equation.
-
-(b) Using the Fokker-Planck equation, derive an analytical expression for the spatiotemporal distribution of the bacteria and their chemical signal over time, assuming that the initial distribution is a Gaussian function centered at the origin. Discuss the conditions under which the distribution will form stable, self-organized patterns such as spirals, waves, or clusters.
-
-(c) Implement a numerical simulation of the system using the stochastic Euler-Maruyama method, and compare the simulation results with the analytical predictions from part (b). Discuss any discrepancies between the two, and suggest possible reasons for the differences.
+* Markov Chain
 
 Games I played (The list will be updated)
 ======
@@ -38,24 +31,12 @@ Games I played (The list will be updated)
  
 Past Paper I Did
 ======
-* 1969 HKCEE
-  * Mathematics (Syllabus A and B)
-  * Additional Mathematics (Paper 1,2,3)
-* 2005 HKALE
-  * Engineering Science
-* 2007 HKALE
-  * Pure Mathematics
-  * Applied Mathematics
-* 2021
-  * Integrated Science
+* 2016 DSE
+  * English Language Paper 1 (Section A + B2)
  
-Station of MTR and rail transport in Hong Kong I went before
+Hong Kong Trip
 ======
-* MTR (I have gone all 99 station) ✅ (Look forward to new lines in future like East Kowloon Line, Northern Link, Tuen Ma South Extension, Tung Chung Line Extension, etc)
 ![LR_routemap_s](https://user-images.githubusercontent.com/132133451/235341769-18099d86-69d4-4451-af47-773f746fc4ac.jpg)
 ![Hong_Kong_Tramways_network_map_zh svg](https://user-images.githubusercontent.com/132133451/235341811-ac11ae10-088f-4408-a5da-5b85209bece8.png)
 * Peak Tram ✅
-* Po Fook Hill Elevator
-* Discovery Bay Elevator
-* Ocean Express ✅
 * Sha Tau Kok Railway - Former Hung Leng Station ✅
