@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <title>Score Counter</title>
+  <script>
+    $(document).ready(function() {
+      $("#confirmBtn").click(function() {
+        var title = $("#titleInput").val();
+        $("#counterTitle").text(title);
+        $("#titleInput, #confirmBtn").hide();
+      });
+
+      $(".scoreBtn").click(function() {
+        var score = parseInt($(this).data("score"));
+        var house = $(this).data("house");
+        var currentScore = parseInt($("#" + house + "Score").text());
+        $("#" + house + "Score").text(currentScore + score);
+      });
+
+      $("#exportBtn").click(function() {
+        var data = [
+          ["House", "Score"],
+          ["Bigelow", $("#" + "bigelow" + "Score").text()],
+          ["Lowrey", $("#" + "lowrey" + "Score").text()],
+          ["Liu Fong Ling", $("#" + "liufongling" + "Score").text()],
+          ["Schaefer", $("#" + "schaefer" + "Score").text()]
+        ];
+
+        var csvContent = "data:text/csv;charset=utf-8," + data.map(row => row.join(",")).join("\n");
+        var encodedUri = encodeURI(csvContent);
+        var link = document.createElement("a");
+        link.setAttribute("href", encodedUri);
+        link.setAttribute("download", "scores.csv");
+        document.body.appendChild(link);
+        link.click();
+      });
+    });
+  </script>
+  <style>
+    body {
+      text-align: center;
+      font-family: 'Quicksand';
+    }
+
+    .houseBlock {
+      display: inline-block;
+      width: 200px;
+      height: 120px;
+      margin: 10px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      text-align: center;
+      font-weight: bold;
+    }
+
+    .houseBlock h2, .houseBlock p {
+      color: white;
+    }
+
+    #bigelowBlock {
+      background-color: brown;
+    }
+
+    #lowreyBlock {
+      background-color: yellow;
+    }
+
+    #liufonglingBlock {
+      background-color: blue;
+    }
+
+    #schaeferBlock {
+      background-color: red;
+    }
+
+    #lowreyBlock h2, #lowreyBlock p {
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="counterTitle">Score Counter</h1>
+  <p>Score Counter by Lee Yiu Sing</p>
+  <input type="text" id="titleInput" placeholder="Enter title">
+  <button id="confirmBtn">Confirm</button>
+  <br>
+  <div id="bigelowBlock" class="houseBlock">
+    <h2>Bigelow</h2>
+    <p>Score: <span id="bigelowScore">0</span></p>
+    <button class="scoreBtn" data-score="20" data-house="bigelow">+20</button>
+    <button class="scoreBtn" data-score="10" data-house="bigelow">+10</button>
+    <button class="scoreBtn" data-score="-10" data-house="bigelow">-10</button>
+  </div>
+
+  <div id="lowreyBlock" class="houseBlock">
+    <h2>Lowrey</h2>
+    <p>Score: <span id="lowreyScore">0</span></p>
+    <button class="scoreBtn" data-score="20" data-house="lowrey">+20</button>
+    <button class="scoreBtn" data-score="10" data-house="lowrey">+10</button>
+    <button class="scoreBtn" data-score="-10" data-house="lowrey">-10</button>
+  </div>
+
+  <div id="liufonglingBlock" class="houseBlock">
+    <h2>Liu Fong Ling</h2>
+    <p>Score: <span id="liufonglingScore">0</span></p>
+    <button class="scoreBtn" data-score="20" data-house="liufongling">+20</button>
+    <button class="scoreBtn" data-score="10" data-house="liufongling">+10</button>
+    <button class="scoreBtn" data-score="-10" data-house="liufongling">-10</button>
+  </div>
+
+  <div id="schaeferBlock" class="houseBlock">
+    <h2>Schaefer</h2>
+    <p>Score: <span id="schaeferScore">0</span></p>
+    <button class="scoreBtn" data-score="20" data-house="schaefer">+20</button>
+    <button class="scoreBtn" data-score="10" data-house="schaefer">+10</button>
+    <button class="scoreBtn" data-score="-10" data-house="schaefer">-10</button>
+  </div>
+
+  <button id="exportBtn">Export Scores</button>
+</body>
+</html>
