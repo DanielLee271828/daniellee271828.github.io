@@ -51,9 +51,9 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CCC Heep Woh College Physics Olympiad Coach
+  * Hong Kong Physics Olympiad
+  * Hong Kong Sing Yin Olympiad
   
 Work Experience
 ======
