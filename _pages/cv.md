@@ -11,119 +11,31 @@ redirect_from:
 
 Education
 ======
-* CCC Heep Woh College
-  * Elective subjects
-    * Physics (Study all elective modules)
-    * Mathematics Extended Part Module 2 (Algebra and Calculus) (Self-study EP Module 1)
-    * Information and Communication Technology (Study all elective modules)
-* HKUST Dual Program
-  * Mathematics (Level 1: Grade B) and Mathematics (Level 2)
-* The Hong Kong Academy for Gifted Education
-  * 5th Hong Kong Gifted Apprentice Programme
-  * IMO Training
-    * I take all problem set and TST seriously. For example, I get 15/28 in one of problem set.
-    * Hong Kong National Olympiad (Hong Kong (China) Mathematical Olympiad)
-      * Selection test for China Mathematics Olympiad in 2022 - 2023
-      * Joined in 2022 - 2023, 2023 - 2024
-    * Hong Kong IMO TST I, II
-      * Joined in 2022 - 2023, 2023 - 2024
-  * HKAGE Represetative from Academy's Got Talents
-  * Physics Enrichment Programme
-    * APhO (Expected) / IPhO Hong Kong Team Selection Test
-    * Pan Pearl River Delta Physics Olympiad (Expected)
-    * Chinese Physics Olympiad (2024-2025) (Expected)
-    * International Scientific Physics Olympiad
-    * Physics Brawl Online
-    * Physics Cup
-* HKU Academy for the Talented
-  * 2022 Summer, Engineering Academy for the Talented
-  * 2023 Spring, Taster Programme
-  * 2023, LASC
-  * Official Discord Server Moderator
+* Gifted Education Programme
+  * Hong Kong Academy for Gifted Education (Representative for ICT competitions)
+    * IMO Training (All phases and levels)
+    * Physics Enrichment Programme for Gifted Students (for selecting students for external Physics Olympiad competitions)
+      * Phase I - III (including EuPhO Team Selection Test)
+    * 5th Hong Kong Gifted Apprentice Programme
+  * HKU Academy for the Talented
+  * CUHK Enrichment Programme for Young Mathematics Talents
+    * Towards Modern Algebra (Distinction)
+  * HKUST Dual Program
+    * Mathematics (Level 1: Grade B) and Mathematics (Level 2: Grade C+)
+* An Otter - Member of Olympiad Training for Individual Study (OTIS) Year IX
 
-Interesting Facts
+Selected Awards
 ======
-* I self-learnt Hong Kong Advanced Level Engineering Science, Applied Mathematics and Pure Mathematics for fun. I also self-learnt HKDSE Design and Technology curriculum (but will not take the examination).
-* I also watch some scientific conference.
-* I may assist school teachers to train the students for different Math competition.
+* Pan Pearl River Delta Physics Olympiad 3rd Class Honour
+* XXV and XXVI Asian Pacific Mathematics Olympiad
+* World Robot Olympiad Hong Kong Regional Selection 1st Class Honour
 
-Achievements
+Programming Languages
 ======
-I joined the following competitions:
-* Mathematics Modelling
-  * 第五屆（2023）上海地區數學建模聯校活動
-  * 數學建模小論文評選
-  * 中學生統計習作比賽
-  * Creative Infographic Design Competition on Applications of Mathematics for Primary and Secondary Schools
-  * IMMC 秋季盃
-  * Mathematics Book Report Competition for Secondary Schools
-  * 香港青少年科技創新大賽
-  * S.T. Yau High School Science Award (Asia)
-  * HLMA
-* Mathematics Olympiad
-  * HKMO Individual and Group Event (Heat and Final)
-  * HMMT Online Tournament
-  * IMO Prelim
-  * 2023 Hong Kong Winter Mathematics Olympiad
-  * XXV Asian Pacific Mathematics Olympiad
-  * 2023 Alibaba Global Mathematics Competition
-  * Olympiad Training for Individual Study (OTIS) Year IX
-* Science
-  * Hong Kong Physics Olympiad
-  * Hong Kong Geography Olympiad
-  * Hong Kong Chemistry Olympiad
-  * International Project Chemistry Olympiad
-  * Sci-Pi Design Challenge
-  * PolyU Science Young Talents Competition
-* Language & Humanities
-  * Hong Kong Linguistics Olympiad
-  * International Economics Olympiad (Winter Challenge)
-  * HKU ROLE Project - Rule of Law Essay Competition 2023
-  * PolyU Invitational English Speech Contest
-
-I joined the following courses:
-* Mathematics
-  * Introduction to Cryptography (by Wolfram U)
-  * Introduction to Linear Algebra (by Wolfram U)
-  * 离散数学概论 Discrete Mathematics Generality (by Peking University)
-  * Game Theory (By Stanford University)
-  * Differential Equations for Engineers (By HKUST)
-* Science
-  * Sciences Web-based Learning Course for Gifted/More Able Students – Palaeontology
-  * Understanding Modern Physics II: Quantum Mechanics and Atoms (By HKUST)
-  * Implant Dentistry (By HKU)
-
-Work Experience
-======
-* Translator (Volunteer): World Cube Association, Mental Calculation World Cup, IChO and IEO
-* HKJSMS
-  * 35th HKJSMS Publication Secretary (Setter of Inter-school Mathematics Competition)
-  * 36th HKJSMS President
-* Organizer of CCCHWC Astronomy and Chemistry Olympiad
-* Helper of 全港小學數學比賽
-
-Sports
-======
-* 田徑隊（黃大仙區分齡田徑比賽）
-  * 跨欄
-  * 短跑
-
-Skills
-======
-* Multimedia
-  * Digital drawing
-  * Video editing
-  * Video recording
-* Programming
-  * Python (for scientific research)
-  * C++, C#
-  * BASIC
-  * LaTeX
-  * HTML, CSS, JavaScript, PHP, SQL
-
-Experience
-======
-I completed questions of APIO, NOI, NOIP, IOI, Google Code Jam in HKOI Judge System. I also join the simulation test on Luogu.
+* Python
+* C++ (Programming languages required in HKDSE Elective C)
+* LaTeX
+* HTML, CSS, JavaScript, PHP, SQL (Programming languages required in HKDSE Elective A, B)
 
 Publications
 ======
@@ -143,8 +55,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Work Experience
 ======
-* Hong Kong Joint School Mathematics Society 2022-2023 Executive Committee
-* CCCHWC Math Buddy Programme Volunteer
-* Hong Kong Blind Union Volunteer
+* Hong Kong Joint School Mathematics Society: President **(2024)**
+* International Biology Bowl Content: Team Member **(Current)**
+* Online Astronomy and Astrophysics Olympiad: Problem Writing Team Member **(2024)**
