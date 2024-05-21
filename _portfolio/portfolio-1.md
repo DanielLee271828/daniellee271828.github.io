@@ -1,6 +1,6 @@
 ---
 title: "Dimensional Analysis"
-excerpt: "It is an useful tool for estimation in Physics Olympiad problems.'>"
+excerpt: "It is an useful tool for estimation in Physics Olympiad problems."
 collection: portfolio
 ---
 
