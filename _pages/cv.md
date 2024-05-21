@@ -39,21 +39,20 @@ Programming Languages
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* CCC Heep Woh College
+  * Science Society Newsletter "Sound of Science"
+  * Physics Society Newsletter
+  * ICT Society Newsletter
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* CCC Heep Woh College Book Sharing about Combinatorics and a National Olympiad in Informatics question **(2024)**
+
 Teaching
 ======
 * CCC Heep Woh College Physics Olympiad Coach
   * Hong Kong Physics Olympiad
-  * Hong Kong Sing Yin Olympiad
+     Sing Yin Olympiad
   
 Work Experience
 ======
