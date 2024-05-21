@@ -59,3 +59,5 @@ Work Experience
 * Hong Kong Joint School Mathematics Society: President **(2024)**
 * International Biology Bowl Content: Team Member **(Current)**
 * Online Astronomy and Astrophysics Olympiad: Problem Writing Team Member **(2024)**
+* International Junior Science Olympiad (Hong Kong Selection): Coach **(2024)**
+* HKAGE Set Theory Course: Lecturer **(2023)**
