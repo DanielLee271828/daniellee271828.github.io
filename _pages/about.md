@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Daniel / Pika's Website"
+title: "Daniel's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Howdy! I am Pika, a student who joins diverse Olympiad competition who aims to study Math in the future! I also volunteer to translate when I am free.
 
 皮卡日報 21/5/2024
 ======
