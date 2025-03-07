@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heat Conduction in a Copper Rod - Simulation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .setup {
+            margin-bottom: 20px;
+        }
+        .setup img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px 0;
+        }
+        .controls {
+            margin-bottom: 20px;
+        }
+        .controls button {
+            padding: 10px 20px;
+            margin: 5px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .controls button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        .data-display {
+            margin-top: 20px;
+        }
+        .data-display table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .data-display th, .data-display td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        .data-display th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Heat Conduction in a Copper Rod - Simulation</h1>
+        <div class="setup">
+            <h2>Experimental Setup</h2>
+            <img src="setup_image.png" alt="Experimental Setup">
+            <p>This simulation replicates the heat conduction experiment using a copper rod. The rod is 57.0 cm long with a diameter of 1.20 cm. Seven temperature sensors are placed along the rod, and two heaters are installed at the ends.</p>
+        </div>
+        <div class="controls">
+            <h2>Controls</h2>
+            <button id="heater1">Turn On Heater 1 (1.95 W)</button>
+            <button id="heater2">Turn On Heater 2</button>
+            <button id="heater3">Turn On Heater 3</button>
+            <button id="fans">Turn On Fans</button>
+            <button id="reset">Reset Experiment</button>
+        </div>
+        <div class="data-display">
+            <h2>Data Display</h2>
+            <table id="data-table">
+                <thead>
+                    <tr>
+                        <th>Sensor</th>
+                        <th>Temperature (°C)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>1</td><td id="temp1">25.00</td></tr>
+                    <tr><td>2</td><td id="temp2">25.00</td></tr>
+                    <tr><td>3</td><td id="temp3">25.00</td></tr>
+                    <tr><td>4</td><td id="temp4">25.00</td></tr>
+                    <tr><td>5</td><td id="temp5">25.00</td></tr>
+                    <tr><td>6</td><td id="temp6">25.00</td></tr>
+                    <tr><td>7</td><td id="temp7">25.00</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        const temps = [25, 25, 25, 25, 25, 25, 25]; // Initial temperature = 25°C (ambient)
+        let heater1On = false;
+        let heater2On = false;
+        let heater3On = false;
+        let fansOn = false;
+
+        // Function to simulate heat conduction over time
+        function simulateHeatConduction() {
+            const baseTemp = 25; // Ambient temperature
+            const heater1Power = heater1On ? 1.95 : 0;
+            const heater2Power = heater2On ? 2.5 : 0; // Assume Heater 2 is 2.5 W
+            const heater3Power = heater3On ? 3.0 : 0; // Assume Heater 3 is 3.0 W
+            const fanCooling = fansOn ? 0.5 : 0; // Cooling effect of fans
+
+            // Heat conduction and cooling effects
+            for (let i = 0; i < temps.length; i++) {
+                // Heat from Heater 1 (affects sensors 1–4)
+                if (i < 4) {
+                    temps[i] += heater1Power * 0.02; // Heat increases over time
+                }
+                // Heat from Heater 2 (affects sensors 4–7)
+                if (i >= 3) {
+                    temps[i] += heater2Power * 0.02; // Heat increases over time
+                }
+                // Cooling effect of fans
+                temps[i] -= fanCooling * 0.02; // Cooling decreases over time
+
+                // Ensure temperature doesn't go below ambient
+                if (temps[i] < baseTemp) temps[i] = baseTemp;
+            }
+
+            // Heat conduction between adjacent sensors
+            for (let i = 1; i < temps.length; i++) {
+                const delta = (temps[i - 1] - temps[i]) * 0.01; // Heat flows from hot to cold
+                temps[i - 1] -= delta;
+                temps[i] += delta;
+            }
+        }
+
+        function updateTemperatures() {
+            simulateHeatConduction();
+            for (let i = 0; i < temps.length; i++) {
+                document.getElementById(`temp${i + 1}`).textContent = temps[i].toFixed(2);
+            }
+        }
+
+        document.getElementById('heater1').addEventListener('click', () => {
+            heater1On = !heater1On;
+            document.getElementById('heater1').textContent = heater1On ? 'Turn Off Heater 1' : 'Turn On Heater 1 (1.95 W)';
+        });
+
+        document.getElementById('heater2').addEventListener('click', () => {
+            heater2On = !heater2On;
+            document.getElementById('heater2').textContent = heater2On ? 'Turn Off Heater 2' : 'Turn On Heater 2';
+        });
+
+        document.getElementById('heater3').addEventListener('click', () => {
+            heater3On = !heater3On;
+            document.getElementById('heater3').textContent = heater3On ? 'Turn Off Heater 3' : 'Turn On Heater 3';
+        });
+
+        document.getElementById('fans').addEventListener('click', () => {
+            fansOn = !fansOn;
+            document.getElementById('fans').textContent = fansOn ? 'Turn Off Fans' : 'Turn On Fans';
+        });
+
+        document.getElementById('reset').addEventListener('click', () => {
+            temps.fill(25);
+            heater1On = false;
+            heater2On = false;
+            heater3On = false;
+            fansOn = false;
+            document.getElementById('heater1').textContent = 'Turn On Heater 1 (1.95 W)';
+            document.getElementById('heater2').textContent = 'Turn On Heater 2';
+            document.getElementById('heater3').textContent = 'Turn On Heater 3';
+            document.getElementById('fans').textContent = 'Turn On Fans';
+            updateTemperatures();
+        });
+
+        setInterval(updateTemperatures, 100); // Update every 100ms
+    </script>
+</body>
+</html>
